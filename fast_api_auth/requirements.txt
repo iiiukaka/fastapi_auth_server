@@ -1,0 +1,12 @@
+alembic==1.16.5
+alembic-autogenerate-enums==0.1.2
+asyncpg==0.30.0
+cachetools==6.2.0
+elasticsearch[async]==8.17.0
+fastapi[all]===0.111.0
+fastapi-cache2==0.2.2
+fastapi-users==14.0.1
+fastapi-users-db-sqlalchemy==7.0.0
+redis==6.4.0
+python-dotenv==1.1.1
+SQLAlchemy==2.0.43
