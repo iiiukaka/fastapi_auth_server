@@ -1,0 +1,14 @@
+{
+    "python.pythonPath": ".venv/bin/python",
+    "python.analysis.extraPaths": [
+        "./src",
+        "/.venv/lib/python3.13/site-packages"
+    ],
+    "python.autoComplete.extraPaths": [
+        "./src",
+        "./.venv/lib/python3.13/site-packages",
+        ".venv",
+    ],
+    "python.analysis.languageServerMode": "light",
+    "python.analysis.typeCheckingMode": "off"
+}
